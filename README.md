@@ -6,7 +6,7 @@ this project predicts house prices based on area using simple linear regression 
 -visualizes data and regression line with matplotlib
 -predicts price for new house areas
 
-# Project Structure
+## Project Structure
 - **Create a virtual environment:**
    
    python -m venv venv
